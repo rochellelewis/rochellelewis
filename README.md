@@ -1,6 +1,6 @@
 ### Hi! 👋
 <a href="https://twitter.com/_rochellelewis" target="_blank">
-  <img src="https://img.shields.io/badge/%20-____rochellelewis-black?logo=twitter&logoColor=ffffff&labelColor=blue" alt="twitter badge">
+  <img src="https://img.shields.io/badge/%20-__rochellelewis-black?logo=twitter&logoColor=ffffff&labelColor=blue" alt="twitter badge">
 </a>
 
 <a href="https://www.linkedin.com/in/rochellealewis/" target="_blank">
@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://codepen.io/rochellelewis" target="_blank">
-  <img src="https://img.shields.io/badge/%20-rochellelewis-white?logo=codepen&logoColor=ffffff&labelColor=black" alt="linkedin badge">
+  <img src="https://img.shields.io/badge/%20-rochellelewis-blue?logo=codepen&logoColor=ffffff&labelColor=black" alt="linkedin badge">
 </a>
 
 
