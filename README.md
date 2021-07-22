@@ -1,18 +1,12 @@
 ### Hi! 👋
-<a href="https://twitter.com/_rochellelewis" target="_blank">
-  <img src="https://img.shields.io/badge/%20-__rochellelewis-black?logo=twitter&logoColor=ffffff&labelColor=blue" alt="twitter badge">
-</a>
 
 <a href="https://www.linkedin.com/in/rochellealewis/" target="_blank">
   <img src="https://img.shields.io/badge/%20-rochellealewis-black?logo=linkedin&logoColor=ffffff&labelColor=blue" alt="linkedin badge">
 </a>
 
-<a href="https://codepen.io/rochellelewis" target="_blank">
-  <img src="https://img.shields.io/badge/%20-rochellelewis-blue?logo=codepen&logoColor=ffffff&labelColor=black" alt="linkedin badge">
-</a>
+I'm a full stack web developer, former coding bootcamp instructor, and recent graduate of the SANS/ICMCP Diversity Cyber Academy with over 10 years experience working in development. I'm a Certified Web Application Penetration Tester (GWAPT), Certified Incident Handler (GCIH), and a member of the GIAC Advisory Board. I know how to build and test beautiful, accessible, and secure websites and applications.
 
-
-I’m a web developer and sometimes coding bootcamp assistant who builds beautiful, accessible, and secure websites and applications with a focus on User Interfaces and APIs. For me, web development is an exploration of the convergence of User Experience, Interaction Design, software architecture and programmatic knowhow.
+I am a passionate supporter of progressive top-tier organizations, projects, and initiatives dedicated to serving the greater public good. I contribute my skills and talents to human-centered environments that thrive on positivity, enthusiasm, and joy. I believe everyone should feel good about the work they do every day.
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochellelewis&theme=radical&layout=compact" alt="github language stats">
