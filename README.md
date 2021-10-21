@@ -8,6 +8,7 @@ I'm a full stack web developer, former coding bootcamp instructor, and recent gr
 
 I am a passionate supporter of progressive top-tier organizations, projects, and initiatives dedicated to serving the greater public good. I contribute my skills and talents to human-centered environments that thrive on positivity, enthusiasm, and joy. I believe everyone should feel good about the work they do every day.
 
+<script src="https://tryhackme.com/badge/368794"></script>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochellelewis&theme=radical&layout=compact" alt="github language stats">
 </a>
