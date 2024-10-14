@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/%20-rochellealewis-black?logo=linkedin&logoColor=ffffff&labelColor=blue" alt="linkedin badge">
 </a>
 
-I'm a full stack web developer, former coding bootcamp instructor, and recent graduate of the SANS/ICMCP Diversity Cyber Academy with over 10 years experience working in development. I'm a Certified Web Application Penetration Tester (GWAPT), Certified Incident Handler (GCIH), and a member of the GIAC Advisory Board. I know how to build and test beautiful, accessible, and secure websites and applications.
+I'm a full stack web developer, former coding bootcamp instructor, and graduate of the SANS/ICMCP Diversity Cyber Academy with 12+ years working in development. I'm a Certified Web Application Penetration Tester (GWAPT), Certified Incident Handler (GCIH), and a member of the GIAC Advisory Board. I know how to build and test beautiful, accessible, and secure websites and applications.
 
 I am a passionate supporter of progressive top-tier organizations, projects, and initiatives dedicated to serving the greater public good. I contribute my skills and talents to human-centered environments that thrive on positivity, enthusiasm, and joy. I believe everyone should feel good about the work they do every day.
 
